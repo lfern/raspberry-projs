@@ -1,7 +1,7 @@
 # raspberry-projs
 
-* [Access point](tree/master/access-point)
-* [Print server](tree/master/print-server)
-* [Scanner server](tree/master/scanner-server)
+* [Access point](blob/master/access-point)
+* [Print server](blob/master/print-server)
+* [Scanner server](blob/master/scanner-server)
 
 
