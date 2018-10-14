@@ -155,3 +155,12 @@ service hostapd start
 ```bash
 sudo reboot
 ```
+
+# Ralink drivers
+```bash
+apt-get install firmware-ralink
+```
+or
+```
+apt-get install firmware-misc-nonfree
+```
