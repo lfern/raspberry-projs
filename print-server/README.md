@@ -88,3 +88,9 @@ guest ok = no
 ```bash
 sudo /etc/init.d/samba restart
 ```
+
+# Printer driver not found (windows)
+
+* Connect to [https://www.catalog.update.microsoft.com/Home.aspx](https://www.catalog.update.microsoft.com/Home.aspx) and search for your printer e.g. `HP Laserjet 6L`.
+* Download .cab file and uncompress it.
+* When installing printer select "use disk" and select to uncompressed folder.
